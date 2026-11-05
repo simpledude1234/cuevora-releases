@@ -11,4 +11,4 @@ This page holds the installers only. There is no source code here.
 3. Cuevora isn't code-signed yet, so Windows may warn you. Click **More info**, then **Run anyway**.
    On some newer PCs, Smart App Control blocks unsigned apps completely; Cuevora can't be installed there until it's signed.
 
-Once installed, Cuevora checks this page for updates, including security fixes, and asks before installing one.
+New versions, including security fixes, are published here. Automatic updates are coming soon.
